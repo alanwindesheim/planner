@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Gym",
+      "day": "29 Augustus",
+      "reminder": false
+    },
+    {
+      "text": "School",
+      "day": "12 Augustus",
+      "reminder": "false",
+      "id": 3
+    },
+    {
+      "text": "Kapper ",
+      "day": "19 Februari",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
